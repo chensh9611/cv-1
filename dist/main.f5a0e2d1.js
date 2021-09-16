@@ -145,10 +145,10 @@ var step = function step() {
       n += 1;
       step();
     }
-  }, 0);
+  }, 50);
 }; //
 
 
 step();
 },{}]},{},["epB2"], null)
-//# sourceMappingURL=main.e6c8d66e.js.map
+//# sourceMappingURL=main.f5a0e2d1.js.map
